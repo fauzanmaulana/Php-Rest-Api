@@ -1,6 +1,5 @@
 <?php
     include('dbconn.php');
-    // var_dump($db);
     Class Employes {
         public $name;
         public $age;
