@@ -1,5 +1,5 @@
 <?php
-    include('functions.php');
+    include('controller.php');
 
     $req_method = $_SERVER["REQUEST_METHOD"];
     switch($req_method){
